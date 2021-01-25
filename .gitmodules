@@ -1,0 +1,6 @@
+[submodule "iteh3domaci"]
+	path = iteh3domaci
+	url = https://github.com/marija-debug/iteh3domaci
+[submodule "domaciapi"]
+	path = domaciapi
+	url = https://github.com/marija-debug/domaci3
